@@ -26,6 +26,18 @@ The dashboard analyzes **1,470 employees** and presents actionable insights thro
 
 ---
 
+## SQL Data Extraction 
+
+Initial workforce metrics were validated and extracted using SQL queries from an HR employee database. SQL was used to aggregate key business metrics such as total headcount, gender distribution, promotion eligibility, tenure distribution, and workforce levels. The extracted data was then loaded into Power BI for further modeling, DAX calculations, and visualization.
+
+SQL was primarily used for:
+- Workforce summary metrics
+- Promotion eligibility analysis
+- Service year (tenure) aggregation
+- Employee level distribution
+
+---
+
 ## ❓ Business-Level Questions Answered (With Insights & Numbers)
 
 1. **What is the total workforce size?**  
