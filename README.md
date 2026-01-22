@@ -118,6 +118,25 @@ SQL was primarily used for:
 
 ---
 
+
+## 🔍 Analytical Approach
+1. **Data Preparation**
+   - Cleaned categorical inconsistencies
+   - Validated attrition indicators
+   - Grouped employees by tenure and department
+
+2. **SQL Analysis**
+   - Attrition rates by department and role
+   - Tenure-based exit patterns
+   - Demographic risk segmentation
+
+3. **Dashboard Design**
+   - Attrition KPIs
+   - Departmental risk heatmaps
+   - Demographic breakdowns
+
+---     
+
 ## 🛠 Tools & Technologies
 
 - **Power BI Desktop**  
@@ -134,6 +153,22 @@ SQL was primarily used for:
 2. Open it using **Power BI Desktop**  
 3. Navigate through pages using the left-side menu  
 4. Use visuals and filters to explore workforce insights  
+
+---
+
+## 📈 What This Analysis Enables
+- Proactive retention strategies
+- Improved workforce planning
+- Data-driven HR policy adjustments
+- Targeted employee engagement initiatives
+
+---
+
+## 📂 Repository Structure
+- `/SQL_Scripts` – Attrition and workforce queries
+- `/PowerBI_Dashboard` – HR analytics dashboard
+- `/Dataset` – HR dataset
+- `README.md` – Project documentation
 
 ---
 
@@ -154,4 +189,14 @@ This project demonstrates my ability to:
 This project is part of my **Data Analytics portfolio** and is designed to reflect real-world HR reporting scenarios.
 
 ---
+
+## 👤 Author
+**Munawer Jabeen**  
+Data Analyst | Power BI | SQL  
+🔗 LinkedIn: *www.linkedin.com/in/munawer-jabeen-900811380*
+📧 Email: *munawerjabeen703@gmail.com*
+
+---
+## ⭐ If you find this project insightful, feel free to star the repository!
+
 
